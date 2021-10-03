@@ -13,6 +13,7 @@
 
 ### Installing
 ```
+Before Use this Script on your Hotspot of Android Device 
 apt update ; apt install git curl php openssh -y
 git clone https://www.github.com/Err0r-ICA/G-Host
 cd G-Host
